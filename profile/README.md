@@ -2,7 +2,7 @@
 
 
 Here you will find a wealth of information 
-on a variety of topics related to coding, DIY 
+on a variety of topics related to coding, statistics, DIY 
 projects, and other interesting subjects that 
 have caught our attention. Whether you're a 
 seasoned developer or just getting started 
