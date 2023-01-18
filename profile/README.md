@@ -17,4 +17,4 @@ you can find all the code from our posts.
 So come on in and join us on our journey of 
 discovery and experimentation!
 
-![an overview of four projects that can be found on the website](./20230118_152019-COLLAGE-02.jpeg)
+![an overview of four projects that can be found on the website](./profile/20230118_152019-COLLAGE-02.jpeg)
